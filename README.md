@@ -1,4 +1,4 @@
-![til](./gatinho-na-chuva.gif)
+![hippo](./gatinho-na-chuva.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
