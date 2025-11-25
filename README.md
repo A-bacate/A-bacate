@@ -1,7 +1,8 @@
-![Header](./gatinho-na-chuva.gif)
+![til](./gatinho-na-chuva.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
+![Header](./gatinho-na-chuva.gif)
 **A-bacate/A-bacate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
