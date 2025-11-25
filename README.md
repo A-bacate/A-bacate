@@ -1,4 +1,4 @@
-![hippo](./gatinho-na-chuva.gif)
+![hippo](https://github.com/A-bacate/A-bacate/blob/main/gatinho%20na%20chuva.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
