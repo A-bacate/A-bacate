@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
