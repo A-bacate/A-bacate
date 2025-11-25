@@ -1,4 +1,4 @@
-![til](https://raw.githubusercontent.com/A-bacate/A-bacate/blob/main/gatinho-na-chuva.gif)
+![til](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYydmF3bmlrcmpmanNqNHkxNDFycmlrN3FzN3A0eHpsNnk5MHhwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SqEQarp3sBM8LTDVrb/giphy.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
