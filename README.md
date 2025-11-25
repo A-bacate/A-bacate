@@ -1,4 +1,4 @@
-![Header](./gatinho-na-chuva.gif)
+![Header](./gatinho.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
