@@ -1,4 +1,4 @@
-## ✨ _Bem vinda(o)_ ✨
+## ✨ _Bem vindo(a)_ ✨
 
 <!--
 **A-bacate/A-bacate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
