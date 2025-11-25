@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./gatinho.gif)
 ## ✨ _Bem vindo(a)_ ✨
 
 <!--
